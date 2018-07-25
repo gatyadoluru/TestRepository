@@ -1,15 +1,1 @@
-Are you Ready?
-
-NO XC
-My eyes hurt from that earlier
-Perhaps dry eye
-It might be contact.............................
-
-コミットしてフェッチしてプルしてプッシュっする
-
-<<<<<<< HEAD
-
-マージとは何でしょう？
-=======
-abcdefghijk
->>>>>>> 7024e1c1ce67df612946ff056c4971a0a49c32e3
+Destroy
