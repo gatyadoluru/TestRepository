@@ -18,4 +18,9 @@ abcdefghijk
 >>>>>>> 7024e1c1ce67df612946ff056c4971a0a49c32e3
 >>>>>>> 40c496587113e2ff8febefe89c63369d67b60d5f
 
+<<<<<<< HEAD
 last Christmas@I give my HEART
+=======
+
+iPhone android Xperia
+>>>>>>> e1665bc6b1aef470aa6a22d4e1c8c341dc5a832a
