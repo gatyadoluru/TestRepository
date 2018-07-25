@@ -1,1 +1,30 @@
+<<<<<<< HEAD
 Destroy
+=======
+Are you Ready?
+
+NO XC
+My eyes hurt from that earlier
+Perhaps dry eye
+It might be contact.............................
+
+コミットしてフェッチしてプルしてプッシュっする
+
+<<<<<<< HEAD
+イェイイェイイェイイェイイェイウォウウォウウォウウォウ
+=======
+<<<<<<< HEAD
+
+マージとは何でしょう？
+=======
+abcdefghijk
+>>>>>>> 7024e1c1ce67df612946ff056c4971a0a49c32e3
+>>>>>>> 40c496587113e2ff8febefe89c63369d67b60d5f
+
+<<<<<<< HEAD
+last Christmas　I give my HEART
+=======
+
+iPhone android Xperia
+>>>>>>> e1665bc6b1aef470aa6a22d4e1c8c341dc5a832a
+>>>>>>> c9085070947d4c924475c99076378cb904e86484
